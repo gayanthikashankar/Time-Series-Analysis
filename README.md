@@ -1,2 +1,3 @@
 # Time-Series-Analysis
-A study of the ACF and the PACF on various ARMA/ARIMA processes.
+A comprehensive analysis of the ARMA/ARIMA models by simulating time series data, transforming it for stationarity, and examining the autocorrelation properties, offering insights into the behavior and structure of ARMA/ARIMA processes.
+
